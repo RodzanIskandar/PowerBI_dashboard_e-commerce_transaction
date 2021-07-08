@@ -1,5 +1,5 @@
 # PowerBI_dashboard_e-commerce_transaction
-Iam processing the e-commerce transaction data from newcomers e-commerce platform to get some insight about the business. The example of the insight is the fact that transaction mostly happened between 10am to 15pm, therefore company can make some data-driven decisions like marketing campaign in that range of time. cause in this project focusing on data analytics, so the final output of this project is Power BI dashboard to be able share some insight to all stakeholders in the business.
+Iam processing the e-commerce transaction data from newcomers e-commerce platform to get some insights about the business. The example of the insights is the fact that transaction mostly happened between 10am to 15pm, therefore company can make some data-driven decisions like marketing campaign in that range of time. cause in this project focusing on data analytics, so the final output of this project is Power BI dashboard to be able share some insights to all stakeholders in the business.
 
 # Dataset
 The dataset is e-commerce transaction data with features or columns as follows:
@@ -18,11 +18,11 @@ Cleaning the data and prepare dataset.
 - Check the NAN data and data type.
 - Transform null data in customer_id to 'no customer id'
 - Transform invoice_date to datetime data type.
-- Extract some date information from invoice_date column.
+- Extract some date informations from invoice_date column.
 - Define sales columns.
 
 # Exploratory Data Analysis
-Here some insight from the transaction data:
+Here some insights from the transaction data:
 - There are some inclined sales, those are in the desember 2015, september 2016 and in november 2016. The data between those inclined events are tend to be constantly enough, no big inclined and declined. In December 2015, the inclined sales happend in the first day of the first week of the month and in December 2016 the inclined sales happend in seventh day of the first week of the month, this maybe happened cause customer shopping in case prepare for their holiday, or also can be there are year sale event in the e-commerce platform. In september 2016, the inclined sales happend in sixth day of the second week of the month.
 - Surprisingly sunday is the least sales, with tuesday and thursday are the most sales in weeks.
 - The trends for the customers to do the transaction are in operational hour which is 9 AM to 16 PM with 10 AM and 12 PM are the most sales happend and followed by 15 PM.
