@@ -36,5 +36,5 @@ Here some insights from the transaction data:
 - The top location for average sales every transaction are dominant by the location outside DKI Jakarta (assume HQ in Jakarta), this is because the delivery cost for far location tend to more expensive, so customers on those location tend to do big transaction all at once.
 
 ## Power BI dashboard
-![](https://github.com/RodzanIskandar/PowerBI_dashboard_e-commerce_transaction/blob/main/images/ETC_dashboard.jpg)
-![](https://github.com/RodzanIskandar/PowerBI_dashboard_e-commerce_transaction/blob/main/images/ETC_dashboard_product1.jpg)
+![](https://github.com/RodzanIskandar/PowerBI_dashboard_e-commerce_transaction/blob/main/images/ETD_dashboard.jpg)
+![](https://github.com/RodzanIskandar/PowerBI_dashboard_e-commerce_transaction/blob/main/images/ETD_dashboard_product1.jpg)
