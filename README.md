@@ -1,4 +1,4 @@
-# PowerBI_dashboard_e-commerce_transaction
+# PowerBI Dashboard E-commerce Transaction
 Iam processing the e-commerce transaction data from newcomers e-commerce platform to get some insights about the business. The example of the insights is the fact that transaction mostly happened between 10am to 15pm, therefore company can make some data-driven decisions like marketing campaign in that range of time. cause in this project focusing on data analytics, so the final output of this project is Power BI dashboard to be able share some insights to all stakeholders in the business.
 
 # Dataset
